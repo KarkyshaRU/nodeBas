@@ -1,0 +1,14 @@
+{
+  "name": "moduleapp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "Args.js",
+  "scripts": {
+    "dev": "node Args.js Kate 18"
+  },
+  "author": "KateEl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
